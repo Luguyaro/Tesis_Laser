@@ -1,0 +1,1 @@
+'bee', 'bird', 'cartoon snail', 'head_worm', 'person', 'polilla', 'snail', 'worm', 'worm_curved'
